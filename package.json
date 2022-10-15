@@ -1,0 +1,14 @@
+{
+  "id": "papertrail",
+  "name": "Papertrail",
+  "version": "0.0.1",
+  "description": "Papertrail",
+  "main": "index.js",
+  "author": "Dzianis Minich <i@stenhigh.ru>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://papertrailapp.com/dashboard",
+    "hasTeamId": false,
+    "hasNotificationSound": false
+  }
+}
